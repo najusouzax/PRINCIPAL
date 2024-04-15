@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    passing: 0;
+}
+
+.principal{
+    background-image:linear-gradient(#308ADD,#1A4A77);
+color:white;
+display:flex;
+justify-content: center; 
+align-items: center;
+padding: 24px 0;
+height: 100%;
+}
+
+.principal-texto-um{
+    display:flex;
+ justify-content: left;
+ width: 500px;
+}
