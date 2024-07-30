@@ -19,6 +19,12 @@ height: 100%;
  width: 500px;
 }
 
-.principal-imagem{
-    width: 20%;
+.principal-texto-dois{
+    display:flex;
+ justify-content: flex-end;
+ padding: 20%;
+}
+
+.principal-imagem-logo-da-escola{
+align-content: end;
 }
